@@ -10,7 +10,11 @@
   <a href="https://instagram.com/_yash_shah__"><img src="https://img.shields.io/badge/INSTAGRAM-__yash__shah____-FF4A1C?style=flat-square&labelColor=0A0A0B" alt="Instagram" /></a>
 </p>
 
-I build **Paymm**, an Indian super-app where one wallet pays for mobile recharges, bills, FASTag, flights, hotels, buses and bike-taxi rides. I write the React Native apps, the Node and Go services behind them, and the release pipeline that gets a fix onto phones the same day.
+<p align="center">
+  <strong>Yash Shah</strong> · Full-stack and mobile developer · React Native, Node.js, Go · Indore, India
+</p>
+
+I'm Yash Shah, a full-stack developer from Indore. I build **Paymm**, an Indian super-app where one wallet pays for mobile recharges, bills, FASTag, flights, hotels, buses and bike-taxi rides. I write the React Native apps, the Node and Go services behind them, and the release pipeline that gets a fix onto phones the same day.
 
 Most of that code is private, so the contribution graph says more than the repo list does.
 
