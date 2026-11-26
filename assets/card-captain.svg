@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 214" width="440" height="214" role="img" aria-label="Paymm Captain: The driver side of Paymm Ride. Rings full-screen for a new trip even when the app is killed, verifies KYC and tracks the ride live. Status LIVE.">
+
+<defs><radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(440 0) scale(300 190)">
+  <stop offset="0" stop-color="#FF4A1C" stop-opacity="0.16"/><stop offset="1" stop-color="#FF4A1C" stop-opacity="0"/></radialGradient>
+  <clipPath id="fr"><rect x="1" y="1" width="438" height="212" rx="11"/></clipPath></defs>
+<style>.dot{animation:p 2.4s ease-in-out infinite}@keyframes p{0%,100%{opacity:1}50%{opacity:.3}}@media (prefers-reduced-motion:reduce){.dot{animation:none}}</style>
+<rect x="0.5" y="0.5" width="439" height="213" rx="12" fill="#0A0A0B" stroke="#2A2622"/>
+<rect width="440" height="214" fill="url(#g)" clip-path="url(#fr)"/>
+<text x="24" y="36" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#FF4A1C" textLength="14.4" lengthAdjust="spacing" font-weight="700">02</text>
+<text x="48" y="36" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8D877F" textLength="171.6" lengthAdjust="spacing">driver app / ios · android</text>
+<circle class="dot" cx="373.6" cy="32" r="3.5" fill="#3DDC84"/>
+<text x="416" y="36" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#3DDC84" textLength="32.4" lengthAdjust="spacing" text-anchor="end">LIVE</text>
+<text x="24" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="26" fill="#F3EFE9" font-weight="800" letter-spacing="-0.4">Paymm Captain</text>
+<text x="24" y="110" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#C9C3BB">The driver side of Paymm Ride. Rings full-screen</text>
+<text x="24" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#C9C3BB">for a new trip even when the app is killed,</text>
+<text x="24" y="150" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#C9C3BB">verifies KYC and tracks the ride live.</text>
+<rect x="24" y="172" width="44.4" height="22" rx="11" fill="none" fill-opacity="1" stroke="#2A2622"/><text x="33" y="186.96" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#C9C3BB" textLength="26.4" lengthAdjust="spacing">Expo</text><rect x="74.4" y="172" width="84" height="22" rx="11" fill="none" fill-opacity="1" stroke="#2A2622"/><text x="83.4" y="186.96" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#C9C3BB" textLength="66" lengthAdjust="spacing">TypeScript</text><rect x="164.4" y="172" width="64.2" height="22" rx="11" fill="none" fill-opacity="1" stroke="#2A2622"/><text x="173.4" y="186.96" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#C9C3BB" textLength="46.2" lengthAdjust="spacing">Notifee</text><rect x="234.6" y="172" width="37.8" height="22" rx="11" fill="none" fill-opacity="1" stroke="#2A2622"/><text x="243.6" y="186.96" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#C9C3BB" textLength="19.8" lengthAdjust="spacing">FCM</text>
+
+</svg>
